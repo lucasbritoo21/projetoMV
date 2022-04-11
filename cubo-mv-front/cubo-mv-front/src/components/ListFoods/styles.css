@@ -1,0 +1,17 @@
+.food__h1{
+    font-size: 24px;
+    color: rgb(0, 0, 85);
+    width: 100%;
+    text-align: center;
+    padding-top:30px;
+    padding-bottom: 5px;
+}
+
+.foodList{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 600px;
+    flex-wrap: wrap;
+    gap: 5px;
+}

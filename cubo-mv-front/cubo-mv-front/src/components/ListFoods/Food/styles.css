@@ -1,0 +1,28 @@
+.food--selected{
+    background:#ccc;
+    width: auto;
+    height: 30px;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 12px;
+    cursor: pointer;
+}
+
+.food{
+    width: auto;
+    height: 30px;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 12px;
+    cursor: pointer;
+    background: blue;
+}
+
+span{
+    font-size: 12px;
+    color: blue
+}

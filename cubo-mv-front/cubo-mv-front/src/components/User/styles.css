@@ -1,0 +1,13 @@
+.block{
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: column;
+    padding:15px;
+    width: 300px;
+    border-radius: 15px;
+    background: #ccc;
+    text-transform: none;
+    text-decoration: none;
+    color: black;
+}
